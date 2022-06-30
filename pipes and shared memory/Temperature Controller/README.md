@@ -6,7 +6,10 @@
 
 ## Instructions: 
 
-- Compile and run the program : gcc unnamed.c -lm && ./a.out
+- Compile and run the program : 
+```	
+	1. gcc unnamed.c -lm && ./a.out
+```
 
 ## Processes:
 
@@ -42,10 +45,12 @@
 ## Instructions:
 
 - Compile and run each process on a seperate terminal:
+```
 	1. gcc named_1.c -o p1 && ./p1
 	2. gcc named_2.c -lm -o p2 && ./p2
 	3. gcc named_2.c -o p3 && ./p3
-	
+```
+
 - Start by giving input in process p1.
 
 ## Processes:
