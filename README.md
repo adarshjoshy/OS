@@ -4,6 +4,7 @@ This repository contains example problems covering Inter Process Communication, 
 
 [![Github repo size](https://img.shields.io/github/languages/code-size/adarshjoshy/OS)](https://github.com/adarshjoshy/OS)
 [![GitHub top language](https://img.shields.io/github/languages/top/adarshjoshy/OS?color=green)](https://github.com/adarshjoshy/OS)
+![GitHub](https://img.shields.io/github/license/adarshjoshy/OS?label=license)
 
 ### Pipes [1]
 Pipe is a communication medium between two or more related or interrelated processes. It can be either within one process or a communication between the child and the parent processes.
