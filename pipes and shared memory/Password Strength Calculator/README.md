@@ -9,11 +9,12 @@
 ## Instructions:
 
 - Compile and run each process on a seperate terminal:
+```
 	1. gcc shm_1.c -o p1 && ./p1
 	2. gcc shm_2.c -o p2 && ./p2
 	3. gcc shm_2.c -o p3 && ./p3
-	
-- Start by giving input in process p1.
+```	
+- Start by giving input in `process p1`.
 
 ## Processes:
 
